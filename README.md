@@ -22,7 +22,7 @@ A simple virtual piano built with Python, supporting real-time playing, multiple
 ---
 
 ## 📁 Folder Structure
-
+```text
 project/
 │
 ├── main.py # Main script
@@ -35,7 +35,7 @@ project/
 │ └── ...
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🎵 Song File Format
